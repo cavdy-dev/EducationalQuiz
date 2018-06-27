@@ -32,6 +32,7 @@
                 android:textColorHint="@color/colorAccent"
                 android:textColor="@color/colorAccent"
                 android:inputType="textCapSentences"
+                android:maxLines="1"
                 android:textAllCaps="true"
                 android:hint="@string/username"/>
         </android.support.design.widget.TextInputLayout>

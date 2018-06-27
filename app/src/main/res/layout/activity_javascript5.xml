@@ -86,6 +86,7 @@
             android:textColorHint="@color/colorAccent"
             android:textSize="20sp"
             android:paddingLeft="10dp"
+            android:maxLines="1"
             android:layout_marginBottom="10dp"/>
         <Button
             android:layout_width="match_parent"

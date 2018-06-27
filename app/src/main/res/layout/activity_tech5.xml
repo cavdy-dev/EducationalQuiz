@@ -85,6 +85,7 @@
             android:textColor="@color/colorAccent"
             android:textColorHint="@color/colorAccent"
             android:textSize="20sp"
+            android:maxLines="1"
             android:paddingLeft="10dp"
             android:layout_marginBottom="10dp"/>
         <Button
