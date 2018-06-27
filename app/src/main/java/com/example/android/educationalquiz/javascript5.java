@@ -1,8 +1,11 @@
 package com.example.android.educationalquiz;
 
 import android.content.Intent;
+import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
+import android.view.KeyEvent;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
@@ -23,6 +26,8 @@ public class javascript5 extends AppCompatActivity {
     String rightanswer3;
     String rightanswer4;
     String rightanswer5;
+
+    final String TAG = this.getClass().getName();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -121,5 +126,32 @@ public class javascript5 extends AppCompatActivity {
         skip.putExtra("ANSWER4", rightanswer4);
         skip.putExtra("ANSWER5", rightanswer5);
         startActivity(skip);
+    }
+
+    boolean twice = false;
+    @Override
+    public void onBackPressed() {
+
+        Log.d(TAG, "click");
+
+        if( twice == true) {
+            Intent intent =  new Intent(Intent.ACTION_MAIN);
+            intent.addCategory(Intent.CATEGORY_HOME);
+            intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+            startActivity(intent);
+            finish();
+            System.exit(0);
+        }
+        twice = true;
+        Log.d(TAG, "twice: " + twice);
+
+        Toast.makeText(this, "Please press back again to exit", Toast.LENGTH_SHORT).show();
+        new Handler().postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                twice = false;
+                Log.d(TAG, "twice: " + twice);
+            }
+        }, 3000);
     }
 }

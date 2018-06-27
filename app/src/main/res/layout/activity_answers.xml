@@ -65,7 +65,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@color/colorAccent"
-                    android:textSize="25sp"
+                    android:textSize="18sp"
                     android:layout_marginRight="5dp"
                     android:text="Q1. You Choose: "/>
                 <TextView
@@ -73,7 +73,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@android:color/holo_blue_light"
-                    android:textSize="25sp"
+                    android:textSize="18sp"
                     android:text=""/>
             </LinearLayout>
             <LinearLayout
@@ -84,7 +84,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@color/colorAccent"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:layout_marginRight="5dp"
                     android:text="Correct Answer: "/>
                 <TextView
@@ -92,7 +92,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@android:color/holo_blue_light"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:text=""/>
             </LinearLayout>
         </LinearLayout>
@@ -109,7 +109,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@color/colorAccent"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:layout_marginRight="5dp"
                     android:text="Q2. You Choose: "/>
                 <TextView
@@ -117,7 +117,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@android:color/holo_blue_light"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:text=""/>
             </LinearLayout>
             <LinearLayout
@@ -128,7 +128,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@color/colorAccent"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:layout_marginRight="5dp"
                     android:text="Correct Answer: "/>
                 <TextView
@@ -136,7 +136,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@android:color/holo_blue_light"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:text=""/>
             </LinearLayout>
         </LinearLayout>
@@ -153,7 +153,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@color/colorAccent"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:layout_marginRight="5dp"
                     android:text="Q3. You Choose: "/>
                 <TextView
@@ -161,7 +161,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@android:color/holo_blue_light"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:text=""/>
             </LinearLayout>
             <LinearLayout
@@ -172,7 +172,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@color/colorAccent"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:layout_marginRight="5dp"
                     android:text="Correct Answer: "/>
                 <TextView
@@ -180,7 +180,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@android:color/holo_blue_light"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:text=""/>
             </LinearLayout>
         </LinearLayout>
@@ -197,7 +197,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@color/colorAccent"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:layout_marginRight="5dp"
                     android:text="Q4. You Choose: "/>
                 <TextView
@@ -205,7 +205,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@android:color/holo_blue_light"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:text=""/>
             </LinearLayout>
             <LinearLayout
@@ -216,7 +216,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@color/colorAccent"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:layout_marginRight="5dp"
                     android:text="Correct Answer: "/>
                 <TextView
@@ -224,7 +224,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@android:color/holo_blue_light"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:text=""/>
             </LinearLayout>
         </LinearLayout>
@@ -240,7 +240,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@color/colorAccent"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:layout_marginRight="5dp"
                     android:text="Q5. You Choose: "/>
                 <TextView
@@ -248,7 +248,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@android:color/holo_blue_light"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:text=""/>
             </LinearLayout>
             <LinearLayout
@@ -259,7 +259,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@color/colorAccent"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:layout_marginRight="5dp"
                     android:text="Correct Answer: "/>
                 <TextView
@@ -267,7 +267,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@android:color/holo_blue_light"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:text=""/>
             </LinearLayout>
         </LinearLayout>
