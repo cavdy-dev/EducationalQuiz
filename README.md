@@ -6,4 +6,4 @@ It allows users to skip questions.
 EducationalQuiz app is very friendly on almost all screensizes, even on smaller screen.
 The app is very interactive and fun also.
 It is friendly on landscape mode too.
-The app is hosted on google drive, here is the link https://drive.google.com/open?id=1rXLp0bE2o7w5lFfXQZJ8bNlEx_lMqG50
+The app is hosted on google drive, here is the link https://drive.google.com/open?id=1konwyCbW-CyA3zZMhxpTd4gwS4L0321C
