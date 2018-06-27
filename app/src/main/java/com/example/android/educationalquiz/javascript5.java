@@ -56,7 +56,7 @@ public class javascript5 extends AppCompatActivity {
 
     public void submit(View view) {
         EditText editText = (EditText) findViewById(R.id.edit_box);
-        edittext = editText.getText().toString();
+        edittext = editText.getText().toString().toLowerCase();
         if(edittext != null && !edittext.trim().isEmpty()) {
             if (edittext.contains("yes")) {
                 choosevalue5 = edittext;

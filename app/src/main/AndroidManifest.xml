@@ -43,7 +43,7 @@
         <activity android:name=".tech4" />
         <activity android:name=".tech5" />
         <activity android:name=".total" />
-        <activity android:name=".answers" />
+        <activity android:name=".answers" android:screenOrientation="portrait" />
         <activity android:name=".settingup"></activity>
     </application>
 
