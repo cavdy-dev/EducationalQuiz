@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.educationalquiz">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".welcome">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".choose" />
+        <activity android:name=".php1" />
+        <activity android:name=".php2" />
+        <activity android:name=".php3" />
+        <activity android:name=".php4" />
+        <activity android:name=".php5" />
+        <activity android:name=".java" />
+        <activity android:name=".java2" />
+        <activity android:name=".java3" />
+        <activity android:name=".java4" />
+        <activity android:name=".java5" />
+        <activity android:name=".javascript" />
+        <activity android:name=".javascript2" />
+        <activity android:name=".javascript3" />
+        <activity android:name=".javascript4" />
+        <activity android:name=".javascript5" />
+        <activity android:name=".xml" />
+        <activity android:name=".xml2" />
+        <activity android:name=".xml3" />
+        <activity android:name=".xml4" />
+        <activity android:name=".xml5" />
+        <activity android:name=".tech" />
+        <activity android:name=".tech2" />
+        <activity android:name=".tech3" />
+        <activity android:name=".tech4" />
+        <activity android:name=".tech5" />
+        <activity android:name=".total" />
+        <activity android:name=".answers" />
+        <activity android:name=".settingup"></activity>
+    </application>
+
+</manifest>

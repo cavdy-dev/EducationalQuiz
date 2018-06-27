@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EducationalQuiz</string>
+    <string name="logo">Logo</string>
+    <string name="username">Username</string>
+    <string name="log_in">Log in</string>
+    <string name="hello">Hello</string>
+    <string name="choose_your_subject">Choose your quiz subject</string>
+    <string name="get_started">Get Started</string>
+    <string name="php">Php</string>
+    <string name="java">Java</string>
+    <string name="javascript">Javascript</string>
+    <string name="xml">xml</string>
+    <string name="tech_history">Tech History</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="seeting_up">We are setting things up for you</string>
+</resources>
